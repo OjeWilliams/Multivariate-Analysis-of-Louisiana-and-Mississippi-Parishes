@@ -34,7 +34,7 @@ The initial data set contains following variables:
 
 
 
-**Team**
+# **Team**
 1. Patrick Parham - Multivariate Analysis of Variance
 2. Oje Williams  - Multivariate Regression
 3. Natalia Mazariegos - Linear Discriminant Analysis
